@@ -1,0 +1,17 @@
+langkah memasak air:
+1. start
+2. siapkan panci dan kompor.
+3. isi panci dengan air dan letakkan diatas kompor
+4. nyalakan kompor
+5. tunggu hingga mendidih
+6. setelah mendidih matikan kompor
+7. end
+
+step to boil water:
+1. start
+2. prepare pot and stove
+3. pour the pot with water and put it above stove
+4. turn on stove
+5. wait until boil
+6. turn off stove
+7. end

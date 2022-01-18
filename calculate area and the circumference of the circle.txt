@@ -1,0 +1,6 @@
+Menghitung luas dan keliling lingkaran:
+1. Start
+2. hitung panjang jari jari lingkaran (beri nama variabel = r)
+3. untuk menghitung luas gunakan rumus pi*r*r (dimana pi = 22/7 atau 3.14)
+4. untuk menghitung keliling lingkaran gunakan rumus 2*pi*r
+5. end

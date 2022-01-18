@@ -1,0 +1,14 @@
+variabel x dan y :
+1. start
+2. input nilai x dan y
+
+// menentukan x lebih besar dari y atau kebalikan
+3. jika nilai x > y 
+4. then x lebih besar dari y
+5. else y lebih besar dari x
+
+// menentukan x apakah ganjil
+6. jika x modulo 2 sama dengan 0
+7. then x adalah genap 
+8. else x adalah ganjil 
+9. end

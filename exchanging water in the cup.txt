@@ -1,0 +1,18 @@
+Menukar air di dalam 2 gelas berbeda:
+1. start
+2. siapkan 1 gelas tambahan
+3. tuangkan air yang ada pada gelas teh ke dalam gelas tambahan
+4. lalu tuangkan air dari gelas kopi ke gelas teh.
+5. isi gelas kopi dengan air yang ada pada gelas tambahan
+6. air pada gelas kopi dan teh telah tertukar.
+7. end
+
+
+exchanging water in the cup:
+1. start
+2. prepare 1 extra cup
+3. pour tea's cup to the extra cup
+4. then pour coffe's cup to the tea's cup
+5. after that pour extra cup to the coffe's cup.
+6. water in the cup of coffe and tea has been exchange.
+7. end.
